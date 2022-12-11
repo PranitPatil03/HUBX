@@ -37,3 +37,27 @@ body{
 .help{
     display:flex;
 }
+
+
+.newnavbar{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.newitems ul{
+    display: flex;
+}
+
+.newitems {
+    font-size: 0.8rem;
+}
+
+.newlogo h3{
+    margin-left: -23rem;
+}
+
+.newitems ul li{
+    display: flex;
+    margin-left: 1rem;
+}
