@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#topnavbar{
+    box-shadow: 0px 1.5px rgb(194, 194, 194);
+}
+
+.navigration{
+    margin-top: -0.5rem;  
+    margin-left: 1rem; 
+    margin-right: 1rem; 
+}
+
+.navbar{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+
+.navbaritems{
+    margin-left: -25rem;
+}
+
+.navbaritems ul{
+    display:flex;
+}
+
+.navbaritems ul li{
+    display:flex;
+    margin-left: 2rem;
+}
+
+.help{
+    display:flex;
+}
