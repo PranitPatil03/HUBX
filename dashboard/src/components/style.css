@@ -116,3 +116,128 @@ body{
 .bottom{
     margin-top: 1.5rem;
 }
+
+.maincontainer{
+    display:flex;
+    justify-content: space-between;
+}
+
+.users{
+    border: 1px solid #000
+}
+
+
+.maincontainer{
+    background-color: rgb(245, 245, 245);
+}
+
+.users1{
+    margin: 2rem;
+    width: 300px;
+
+}
+
+.userimg{
+    height:2rem;
+    width:2rem;
+}
+
+.user1{
+    display: flex;
+    justify-content: center;
+    margin-left: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+    flex-direction: column;
+    background-color: #fff;
+
+}
+
+.user1 button{
+    margin-left: 1rem;
+    border-radius: 1rem;
+    border: none;
+}
+
+.userpara1{
+    margin-left: 2rem;
+}
+.userpara{
+    margin-left: 2rem;
+    margin-top: -1.5rem;
+}
+
+.blog{
+    
+    margin-left: -20rem;
+    margin-top: 2rem;
+    background-color: #fff;
+
+    max-width: 100%;
+}
+
+.blog1{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.blog1 button{
+    margin-left: 2rem;
+    border-radius: 1rem;
+    border: none;
+}
+
+.head{
+    display:flex;
+}
+
+.content{
+    font-size: 12px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.day{
+    margin-left: 2rem;
+    font-size: 12px;
+    margin-top: 1.2rem;
+}
+
+.eventlog{
+    margin-left: -20rem;
+}
+
+.extra{
+    margin-left: 7rem;
+}
+
+
+.trailperiod{
+    margin-right: -1rem;
+    margin-left: -23rem;
+}
+
+.daysleft{
+    margin-left: 1rem;
+    border-radius: 50%;
+    background-color: rgb(245, 245, 245);
+    height: 129px;
+    margin-top: 1rem;
+    margin-right: 5rem;
+}
+
+.daysleft div{
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.daysleft div span{
+    margin-left: 1.5rem;
+    text-align: center;
+}
+
+.extra1{
+    margin-top: 1rem;
+    margin-left: 7.5rem;
+}
