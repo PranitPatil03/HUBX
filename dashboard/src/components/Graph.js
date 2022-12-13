@@ -30,33 +30,33 @@ function Graph() {
             <div className="firstrow">
               <div className="user">
                 <img src="" alt="" />
-                <p>New User <br /> <span className="center">1</span></p>
+                <p>All Users <br /> <span className="center">1</span></p>
               </div>
               <div className="user bottom">
                 <img src="" alt="" />
-                <p>New User <br /> <span className="center">1</span></p>
+                <p>Avg.time<br /> <span className="center">1</span></p>
               </div>
 
             </div>
             <div className="secondrow">
               <div className="time">
                 <img src="" alt="" />
-                <p>New User <br /> <span className="center">1</span></p>
+                <p>Conversions <br /> <span className="center">1</span></p>
               </div>
               <div className="time bottom">
                 <img src="" alt="" />
-                <p>New User <br /> <span className="center">1</span></p>
+                <p>Courses<br /> <span className="center">1</span></p>
               </div>
 
             </div>
             <div className="secondrow">
               <div className="time">
                 <img src="" alt="" />
-                <p>New User <br /> <span className="center">1</span></p>
+                <p>30 D-sales <br /> <span className="center">1</span></p>
               </div>
               <div className="time bottom">
                 <img src="" alt="" />
-                <p>New User <br /> <span className="center">1</span></p>
+                <p>Categories<br /> <span className="center">1</span></p>
               </div>
 
             </div>
