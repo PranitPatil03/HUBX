@@ -61,3 +61,58 @@ body{
     display: flex;
     margin-left: 1rem;
 }
+
+/* .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.graphimg{
+    max-width: 53rem;
+    margin-left: 2rem;
+}
+
+.rightbox{
+    display: flex;
+    justify-content: space-between;
+}
+
+.freaturescontainer{
+    display: flex;
+    justify-content:center
+}
+
+/* .firstrow{
+    display: flex;
+} */
+
+.user{
+    margin-top: -2rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.center{
+    margin-left: 1.5rem;
+    text-align: center;
+}
+
+/* .secondrow{
+    display: flex;
+} */
+
+.time{
+    margin-top: -2rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+.center{
+    margin-left: 1.5rem;
+    text-align: center;
+}
+
+.bottom{
+    margin-top: 1.5rem;
+}
